@@ -10,4 +10,4 @@ Apologies for the messy code! 😬
 
 ## Animation of filtered shape model
 
-![test](https://github.com/batesemily/bates_aa273_proj/blob/main/shape_est.gif){ .image50percent }
+![test](https://github.com/batesemily/bates_aa273_proj/blob/main/shape_est.gif)
